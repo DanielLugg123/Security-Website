@@ -1,23 +1,19 @@
 body {
-  font-family: Times New Roman;
-  background: dark brown;
+  font-family: "Times New Roman", Times, serif;
+  background: dark green;
 }
-
 nav a {
   margin: 10px;
 }
-
 .product {
   border: 1px solid black;
   padding: 10px;
   margin: 10px;
 }
-
 /* Flexbox */
 nav {
   display: flex;
 }
-
 /* Grid */
 .product {
   display: grid;
